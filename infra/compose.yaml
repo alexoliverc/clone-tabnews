@@ -1,4 +1,4 @@
-services:
+ervices:
   database:
     image: "postgres:16.0-alpine3.18"
     env_file:
